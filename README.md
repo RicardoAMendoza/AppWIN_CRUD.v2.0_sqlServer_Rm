@@ -21,7 +21,9 @@ Introduction to the relation between a SQL Server database and the C# programmin
 
 ## Interface : Application View
 
-We develop the Interface, Classes and functions for the CRUD application in C#
+We develop the Interface, Classes and functions for the CRUD application in C#.
+
+The Update and Save into the database is done with teh same button and changes with the app from save >>> to Update >>>
 
 ![Interface](/img/interface.jpg "View")
 
