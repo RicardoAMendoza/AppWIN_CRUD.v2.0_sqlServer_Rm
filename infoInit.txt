@@ -1,0 +1,10 @@
+1. create repository in GitHub : AppWIN_CRUD.v2.0_sqlServer_Rm
+Description - Implementing Basic CRUD Functionality : We will review and customize the create, read, update, delete (CRUD) code and the Model, View, Controller (MVC) philosophy in  C # .NET application
+2. create file : prjWIn_App_CRUD_sqlServer_Rm
+3. open git Bash
+4. create README.md inside prjWIn_App_CRUD_sqlServer_Rm
+   git init
+5. git add README.md
+6. git commit -m "first commit"
+7. git remote add origin https://github.com/RicardoAMendoza/AppWIN_CRUD.v2.0_sqlServer_Rm.git
+8. git push -u origin master
